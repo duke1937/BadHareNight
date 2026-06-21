@@ -4,6 +4,9 @@ A first-person wilderness **survival-builder**. By **day** you chop, gather, cra
 
 > Endless by design — no win screen. The camp grows and the nights get worse.
 
+### ✨ A game by Zoe — age 9 ✨
+Her idea, her world, her monster bunny. 🐰
+
 Built with **Godot 4.7 (.NET / C#)**.
 
 ---
@@ -37,6 +40,12 @@ When you join, you get the **host's world** — the same trees, camp dwelling, a
 ## What's in it
 
 A full day/night survival loop; a hunting monster bunny that escalates each night; choppable, regrowing forests; prefab fort building with snapping walls and doors; tamable animals that breed and fight the bunny at night; hunger with fishing & cooking; dwelling upgrades all the way to a **Castle** and a royal **Palace** (throne room + auto-crown); a marketplace; **seasons** with seasonal clothing; **farming**; a climbable rainbow with a pot of gold; a **gondola mountain** with a waterfall slide into a swimmable pool; and **LAN multiplayer**.
+
+---
+
+## 💛 Credits
+
+**Created by Zoe, age 9.** The camp, the cute kitties, and the bad hare himself — all her idea. Made with love (and a few late nights) by Zoe and Dad.
 
 ---
 
