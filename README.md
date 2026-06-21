@@ -30,7 +30,9 @@ A **How-to-Play** menu opens on startup and any time with `Esc`.
 
 ## 👥 Multiplayer (LAN)
 
-Open the menu's **Multiplayer** tab. One player clicks **Host**; the others should see that game appear automatically and click **Join**. If it doesn't show up, the host reads out the **Your IP** shown on that screen and the others type it in. You share the same world, day/night, and the (host-run) bunny, and see each other as named kitties.
+Open the menu's **Multiplayer** tab. One player clicks **Host**; the others should see that game appear automatically and click **Join**. If it doesn't show up, the host reads out the **Your IP** shown on that screen and the others type it in.
+
+When you join, you get the **host's world** — the same trees, camp dwelling, animals and the bunny, all kept in sync — and see each other as named kitties. Chop, build a camp and tame animals **together**: fell a tree and everyone sees it fall; tame a critter and it's yours to lead around.
 
 ## What's in it
 
